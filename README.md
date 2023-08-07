@@ -1,6 +1,7 @@
 # Ashley Otchengco
 
-**`Front-End Web Developer`**
+**`Front-End Web Developer`** **`Quality Assurance Tester`**
+
 
 I'm a Filipino undergrad in Bachelor of Science in Information Technology who pursuing to be a Full Stack Web Developer. Currently, I've learned Front-End Web Development who focuses on design simplicity and minimalism.
 
