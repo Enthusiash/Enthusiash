@@ -11,8 +11,8 @@ I'm a Filipino undergrad in Bachelor of Science in Information Technology who pu
 ### 🧰 Languages, Tools and Technologies
 
 
-<img align="left" alt="Visual Studio" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="Visual Studio" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="HTML" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
