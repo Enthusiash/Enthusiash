@@ -1,4 +1,4 @@
-#<b>Ashley Otchengco</b>
+# Ashley Otchengco
 
 **`Front-End Web Developer`** **`Quality Assurance Tester`**
 
