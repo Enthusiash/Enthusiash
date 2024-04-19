@@ -4,6 +4,7 @@
 
 
 Hello! I'm an IT enthusiast. You'll often find me with a cup of coffee in hand, diving into the fascinating realm of coding or shooting hoops on the basketball court.
+<br />
 I thrive on nature trips, especially those that lead me to catch breathtaking sunrises.
 There's something about the quiet beauty of dawn that fuels my curiosity and inspires me to explore every single thing around me.
 I'm a firm believer in continuous improvement, constantly upskilling myself to stay ahead in the ever-evolving tech landscape.
