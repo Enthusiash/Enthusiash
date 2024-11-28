@@ -39,4 +39,3 @@ Let's connect and grow together!
 <img align="left" alt="Figma" width="30px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
                             
-#
