@@ -1,6 +1,6 @@
 # Ashley Otchengco
 
-**`Front-End Web Developer`** **`Quality Assurance Tester`** **`Junior IT`**
+**`Software Developer`**
 
 
 Hello! I'm an IT enthusiast.
